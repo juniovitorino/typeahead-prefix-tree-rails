@@ -4,7 +4,7 @@ require 'tree'
 
 module Services
   module PrefixTree
-    # Class Prefix Tree Importer
+    # Class Prefix Tree Service Object
     class PrefixTreeService
       CHUNK_MAX_SIZE = 1024
 
